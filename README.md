@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ASUS
  */
-public class OperasiAritmatika {
+public class Andriputra_f1 {
 
     /**
      * @param args the command line arguments
